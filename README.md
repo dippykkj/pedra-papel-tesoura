@@ -1,2 +1,2 @@
 # pedra-papel-tesoura
-um jogo de pedra, papel e tesoura super simples feito em python.
+Jogue pedra-papel-tesoura com o seu melhor amigo! O seu computador, isso mesmo, o computador é o seu melhor amigo, até porque você não tem amigos, você programa. Nerd fudido.
